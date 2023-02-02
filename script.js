@@ -25,6 +25,3 @@ const menu=document.getElementById("menu");
 logo.addEventListener("click",(e)=>{
     menu.classList.toggle("menu-nuevo")
 })
-/* if(screen.width<=640){
-    console.log("abbas")
-} */
